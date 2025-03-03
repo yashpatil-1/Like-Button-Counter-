@@ -23,8 +23,9 @@ This is a simple web-based **Like Button Counter** that allows users to click a 
 - **Smooth Animation** – The heart icon provides a subtle animation effect.
 
 ## 📸 Screenshots
-*(Add images here to showcase the UI)*
+![alt text](image-1.png)
 
+![alt text](image.png)
 ## 🤝 Contributing
 Want to improve the project? Feel free to **fork** the repository and submit a **pull request**.
 
